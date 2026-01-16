@@ -1,5 +1,5 @@
-#Star Wars dataset 
-###for use with NewForce Excel Chapter work.
+# Star Wars dataset 
+### for use with NewForce Excel Chapter work.
 
 Small list of Star Wars characters with their listed vitals and movies.
 
